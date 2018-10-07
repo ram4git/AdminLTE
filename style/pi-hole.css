@@ -85,6 +85,7 @@
 
 .main-header>.navbar {
   height: 50px;
+  background: 'red' !important;
 }
 
 #resetButton {

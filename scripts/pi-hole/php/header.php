@@ -218,9 +218,9 @@ if($auth) {
         <!-- Logo -->
         <a href="http://pi-hole.net" class="logo" target="_blank">
             <!-- mini logo for sidebar mini 50x50 pixels -->
-            <span class="logo-mini">SNS</span>
+            <span class="logo-mini">SNS2</span>
             <!-- logo for regular state and mobile devices -->
-            <span class="logo-lg">SNS</span>
+            <span class="logo-lg">SNS2</span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
